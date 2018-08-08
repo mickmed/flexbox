@@ -11,7 +11,7 @@ Make sure to use flexbox for:
  - the list of community members
 
 
-Here is content for the site:
+## Content
 
 Blog post titles:
 
