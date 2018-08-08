@@ -9,3 +9,31 @@ Make sure to use flexbox for:
  - the navigation menu
  - the list of recent blog posts
  - the list of community members
+
+
+Here is content for the site:
+
+Blog post titles:
+
+ - Radiate Postivity & Live Authentically with Amy Ippoliti
+ - Pose of the week: Natarajasana
+ - Breathing methods for restorative yoga
+ - Yoga for a positive mental mindset
+
+Community Member names:
+
+ - Jodie
+ - Michael
+ - Nandita
+ - Kevin
+ - Gabe
+ - Sun
+ - Alejandro
+
+Address:
+
+410 Bastia Road, Rincón, Puerto Rico 06677
+
+Phone Number:
+
+(281) 473-3818
