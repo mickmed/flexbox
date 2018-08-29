@@ -1,6 +1,6 @@
 # Flexbox Lab
 
-Apply your understanding of flexbox as you work from the [annoted mock-up](./mockup-annotated.jpg) to create HTML and CSS.
+Apply your understanding of flexbox as you work from the [annoted mock-up](html-css-flexbox-lab/mockup-annotated.png) to create HTML and CSS.
 
 You'll find assets the designer has provided you with in the `images/` folder.
 
